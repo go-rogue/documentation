@@ -6,7 +6,6 @@
     "build": "docz build"
   },
   "devDependencies": {
-    "docz": "latest",
-    "docz-theme-default": "latest"
+    "docz": "latest"
   }
 }
