@@ -1,11 +1,12 @@
 {
   "name": "go-rogue-documentation",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "scripts": {
     "dev": "docz dev",
     "build": "docz build"
   },
   "devDependencies": {
-    "docz": "latest"
+    "docz": "latest",
+    "docz-theme-default": "latest"
   }
 }
