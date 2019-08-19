@@ -1,5 +1,5 @@
 {
-  "name": "my-docz-project",
+  "name": "go-rogue/documentation",
   "version": "1.0.0",
   "scripts": {
     "dev": "docz dev",
